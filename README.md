@@ -1,6 +1,6 @@
 # item_swiper_demo
 
-> A Vue.js project
+> 单向轮播 A Vue.js project
 
 ## Build Setup
 
